@@ -1,7 +1,13 @@
 .choresText {
-   color: black;
+   color: rgb(208, 18, 18);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: left;
 }
 
 .choresHeading {
+   text-decoration: underline;
+   font-style: italic;
    color: black;
+   size: 14pt;
+   text-align: left;
 }
